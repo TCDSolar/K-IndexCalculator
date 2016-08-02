@@ -51,6 +51,15 @@ To install, type
 
 `pip install k_index_calculator`
 
+##**Dependencies**
+datetime
+
+numpy
+
+scipy
+
+matplotlib
+
 
 ##**Author**
 Written by Sean Blake in Trinity College Dublin, 2014-2016
